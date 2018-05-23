@@ -48,7 +48,7 @@ module.exports = {
     index: path.resolve(__dirname, '../docs/index.html'),
     assetsRoot: path.resolve(__dirname, '../docs'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/vue-bootstrap-startup',
+    assetsPublicPath: '/vue-bootstrap-startup/',
 
     /**
      * Source Maps
