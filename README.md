@@ -1,6 +1,7 @@
-# bootstrap-project-1
+#vue-bootstrap-startup
 
-> A Vue.js project
+A template to build launching page using VueJS and bootstrap
+
 
 ## Build Setup
 
