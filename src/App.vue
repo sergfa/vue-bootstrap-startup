@@ -64,8 +64,7 @@ export default {
 /*@import url('https://fonts.googleapis.com/css?family=Open+Sans|Permanent+Marker|Roboto');*/
 
 body {
-  /*font-family: 'Roboto', sans-serif;*/
-  /*font-family: 'Permanent Marker', cursive;*/
+  margin-top: 60px;
 }
 
 .height-100 {

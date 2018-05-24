@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar navbar-expand-md navbar-dark bg-secondary py-3">
+    <nav class="navbar navbar-expand-md navbar-dark bg-secondary py-3 fixed-top">
         <a href="#" class="navbar-brand text-uppercase">TrueCode</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarBrand">
             <span class="navbar-toggler-icon"></span>
